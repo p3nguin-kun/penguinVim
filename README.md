@@ -16,7 +16,7 @@
 
 ***penguinVim is a NeoVim config written in Lua aiming to provide a base configuration with beautiful UI and fast startuptime (around 0.02 secs ~ 0.07 secs)***
 
-
+![Imgur](https://i.imgur.com/Oj2b6ec.png)
 
 
 ## 📑 ***Menu***
