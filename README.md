@@ -23,7 +23,7 @@
 
 - [✨ Features](#-features)
 - [⚡ Requirements](#%EF%B8%8F-requirements)
-- [🛠️ Installation](#-installation)
+- [🛠️ Installation](#%EF%B8%8F-installation)
 - [💝 Support](#-support)
 
 # ✨ ***Features***
