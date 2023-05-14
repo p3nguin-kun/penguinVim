@@ -13,6 +13,8 @@ sudo apt install neovim git (if you use Debian or Debian-based distro)
 sudo dnf install neovim git (if you use RHEL or Red-hat based distro)
 
 brew install neovim (if you use macOS)
+
+pkg install neovim git (if you use Termux)
 ```
 
 - Install penguinVim
