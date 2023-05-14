@@ -44,38 +44,38 @@
 
 
 ## 🛠️ ***Installation***
-1. First, you need to install nvim and git
+1. ***First, you need to install nvim and git***
 
-- Arch Linux and Arch-based distro:
+- **Arch Linux and Arch-based distro:**
 ```
 sudo pacman -S neovim git
 ```
 
-- Debian and Debian-based distro:
+- **Debian and Debian-based distro:**
 ```
 sudo apt install neovim git
 ```
 
-- Fedora and Red-hat based distro:
+- **Fedora and Red-hat based distro:**
 ```
 sudo dnf install neovim git
 ```
-- macOS:
+- **macOS:**
 ```
 brew install neovim (if you use macOS)
 ```
 
-- Termux:
+- **Termux:**
 ```
 pkg install neovim git (if you use Termux)
 ```
 
-2. Install penguinVim
+2. ***Install penguinVim***
 ```
 git clone https://github.com/p3nguin-kun/penguinVim ~/.config/nvim
 ```
 
-3. Go to ```nvim``` and install plugins
+3. ***Go to ```nvim``` and install plugins***
 ```
 nvim
 ```
