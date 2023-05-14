@@ -10,7 +10,7 @@ sudo pacman -S neovim git (if you use Arch Linux or Arch-based distro)
 
 sudo apt install neovim git (if you use Debian or Debian-based distro)
 
-sudo dnf install neoqvim git (if you use RHEL or Red-hat based distro)
+sudo dnf install neovim git (if you use RHEL or Red-hat based distro)
 ```
 
 - Install penguinVim
