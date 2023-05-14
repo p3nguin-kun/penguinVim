@@ -21,9 +21,10 @@
 
 # 📑 ***Menu***
 
-- [✨ Features](#features)
-- [⚡ Requirements](#requirements)
-- [🛠️ Installation](#installation)
+- [✨ Features](#-features)
+- [⚡ Requirements](#-requirements)
+- [🛠️ Installation](#-installation)
+- [💝 Support](#-support)
 
 # ✨ ***Features***
 
