@@ -1,8 +1,8 @@
+# ***penguinVim***
 
 
-░█▀█░█▀▀░█▀█░█▀▀░█░█░▀█▀░█▀█░█░█░▀█▀░█▄█
-░█▀▀░█▀▀░█░█░█░█░█░█░░█░░█░█░▀▄▀░░█░░█░█
-░▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀
+
+
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/p3nguin-kun/penguinVim?color=d65d0e&style=for-the-badge)
 ![lmao](https://img.shields.io/github/repo-size/p3nguin-kun/penguinVim?color=458588&style=for-the-badge)
