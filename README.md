@@ -22,7 +22,7 @@
 # 📑 ***Menu***
 
 - [✨ Features](#-features)
-- [⚡ Requirements](#-requirements)
+- [⚡ Requirements](#%EF%B8%8F-requirements)
 - [🛠️ Installation](#-installation)
 - [💝 Support](#-support)
 
