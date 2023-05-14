@@ -1,6 +1,6 @@
 # ***penguinVim***
 
----
+
 
 
 
@@ -10,14 +10,14 @@
 ![GitHub issues](https://img.shields.io/github/issues/p3nguin-kun/penguinVim?color=cc241d&style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/p3nguin-kun/penguinVim?color=689d6a&style=for-the-badge)
 
----
+
 
 *NeoVim but better*
 
 ***penguinVim is a NeoVim config written in Lua aiming to provide a base configuration with beautiful UI and fast startuptime (around 0.02 secs ~ 0.07 secs)***
 
 
----
+
 
 ## 📑 ***Menu***
 
@@ -33,7 +33,7 @@
 - 🧹 Sane default settings for options, autocmds, and keymaps
 - 📦 Comes with a wealth of plugins pre-configured and ready to use
 
----
+
 
 ## ⚡️ ***Requirements***
 
@@ -41,7 +41,7 @@
 - Git >= **2.19.0** (for partial clones support)
 - a [Nerd Font](https://www.nerdfonts.com/) **_(optional)_**
 
----
+
 
 ## 🛠️ ***Installation***
 1. First, you need to install nvim and git
